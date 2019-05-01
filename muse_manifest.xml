@@ -1,0 +1,99 @@
+<manifest alg="2" build="2017.0.3.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bistrog.com.br" resolutions="1x" timestamp="1556631666505">
+  <folder name="css">
+    <file name="site_global.css" crc="29979909"/>
+    <file name="index.css" crc="167474315" ref="index"/>
+    <file name="iefonts_index.css" crc="3948745271" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
+    <file name="museutils.js" crc="46400467" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="4273287925" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="phone>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="532123423" ref="phone>index:index"/>
+    <file name="webpro.js" crc="4152390327" ref="phone>index:index"/>
+    <file name="musewpslideshow.js" crc="380562115" ref="phone>index:index"/>
+    <file name="jquery.museoverlay.js" crc="3986278607" ref="phone>index:index"/>
+    <file name="touchswipe.js" crc="4228958816" ref="phone>index:index"/>
+    <file name="form_check.php" crc="4286608207" ref="phone>index"/>
+    <file name="form_throttle.php" crc="313199896" ref="phone>index"/>
+    <file name="form_process.php" crc="3855659497" ref="phone>index"/>
+    <file name="form-u5733.php" crc="346318402" ref="phone>index"/>
+    <file name="require.js" crc="85721165" ref="phone>index:index"/>
+    <file name="form-u2691.php" crc="304970659" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="home-favicon.ico" crc="4130218288" ref="phone>index"/>
+    <file name="pasted-svg-546506x313.svg" crc="208062048" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 546506x313_poster_.png" crc="3777662295" ref="phone>index"/>
+    <file name="file.jpg" crc="281561536" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="file-fit.jpg" crc="4208328934" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="frango.jpg" crc="4236413053" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="frangofit.jpg" crc="3900804462" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sunbanner2379x252.jpg" crc="143935553" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="congelado cel.png" crc="171270033" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="crossbrowser-u6891.png" crc="4029320507" ref="phone>index"/>
+    <file name="bread.png" crc="298569393" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mkt.png" crc="510820238" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="delivery.png" crc="3997813388" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tel.png" crc="3812316185" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp.png" crc="4028235141" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram.png" crc="368997631" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bistrogonoff-favicon.ico" crc="4130218288" ref="index"/>
+    <file name="sunbanner.jpg" crc="110475169" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sunbanner2.jpg" crc="4166417777" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="crossbrowser-u2944.png" crc="4029320507" ref="index"/>
+    <file name="congelado.png" crc="351500577" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bk.jpg" crc="107272198" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="339206874" ref="phone>index"/>
+      <file name="index.css" crc="334063129" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="154362014" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="401751467" seo="true" mt="1556631630672" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3977757222" seo="true" mt="1556631453436" redirect="true"/>
+</manifest>
